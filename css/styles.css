@@ -857,7 +857,7 @@ mark {
     height: 100%;
     top:0;
     left: 0;
-    background-color: #00000089;
+    background-color: rgba(0, 0, 0, 0.267);
     transition: 2s;
     border-radius: 20px;
 }
@@ -895,7 +895,7 @@ mark {
 
 .pricing-info p {
     margin: 5px auto;
-    color: #1784cc;
+    color: #000000;
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     word-spacing: 5px;
