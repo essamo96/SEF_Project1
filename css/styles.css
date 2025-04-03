@@ -489,7 +489,8 @@ mark {
 .merror2{
     margin: 400px 0px;
     /* background-image: url(/image/4.jpg); */
-    background-image: url(./image/6.jpg);
+    /* background-image: url(./image/6.jpg); */
+    background-image: url('/image/6.jpg');
     position: relative;
 }
 
